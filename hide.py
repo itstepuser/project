@@ -2,7 +2,7 @@ if __name__ == "__main__":
     import os
     from jaraco import path
 
-    CHECK_STATE: bool = False # If True, the code only tells you if the parent folder is hidden (R)
+    CHECK_STATE: bool = True # If True, the code only tells you if the parent folder is hidden (R)
     HIDDEN_FILE_LOCATION: str = "C:/Users/student/Documents/GitHub"
 
     if CHECK_STATE:
