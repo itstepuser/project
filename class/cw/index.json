@@ -1,0 +1,22 @@
+{
+    "users" : [
+        {
+            "name": "giorgi",
+            "gvari": null,
+            "age": "18",
+            "alive": true
+        },
+        {
+            "name": "dato",
+            "gvari": null,
+            "age": "18",
+            "alive": true
+        },
+        {
+            "name": "gela",
+            "gvari": null,
+            "age": "18",
+            "alive": true
+        }
+    ]
+}
